@@ -1,7 +1,7 @@
 // Variáveis globais
-let dsVersao = "1.0.0.0";
+let dsVersao = "1.0.0.1";
 let listaNumSorte = []; // Array para armazenar números já sorteados
-let numLimite = 100; // Limite máximo para o número secreto
+let numLimite = 10; // Limite máximo para o número secreto
 let numeroSecreto = gerarNumAleatorio(); // Gera o primeiro número secreto
 let tentativas = 1; // Contador de tentativas do jogador
 
